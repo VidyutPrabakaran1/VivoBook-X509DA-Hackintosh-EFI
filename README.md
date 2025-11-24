@@ -3,6 +3,7 @@
 # Asus VivoBook 15 X509DA - OpenCore 1.0.5
 
 This EFI supports up to macOS Tahoe with some changes to the kexts and config. The most stable version to run is Ventura due to Sonoma, Sequoia, and Tahoe having issues with NootedRed.
+NOTE: You need to generate your own Serial Number, Board Number, etc. The SMBIOS I've put is MacBookPro16,2. Others that work properly- MacBookPro15,4 ; MacBookPro16,4 ; iMac1,1 (Brightness doesn't work).
 
 ## Specificiations :
  - Model: VivoBook X509DA
