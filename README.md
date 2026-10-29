@@ -18,7 +18,7 @@ NOTE: You need to generate your own Serial Number, Board Number, etc. The SMBIOS
 ## What's working :
  - Touchpad
  - Keyboard
- - USB Ports
+ - USB-A Ports
  - Webcam
  - Brightness Keys (Via Fn key)
  - Volume Keys (Via Fn key)
@@ -34,8 +34,6 @@ NOTE: You need to generate your own Serial Number, Board Number, etc. The SMBIOS
 ## What's not working :
  - Supoprt for internal SATA HDD
  - USB-C Port
- - Airplay
- - Airdrop
 
 ## What I haven't tested :
  - SD Card Reader (Micro)
